@@ -1,0 +1,8 @@
+{
+  "name": "biggy-app",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:stefanfrancis93/biggy-app.git",
+  "author": "stefanfrancis93 <stefan.mec.93@gmail.com>",
+  "license": "MIT"
+}
